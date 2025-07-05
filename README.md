@@ -26,4 +26,5 @@ Visualisasi dan insight dari pola penggunaan media sosial oleh pengguna fiktif.
 
 ## Kontributor
 Ellyn Sastini Sibarani – D3 Teknik Informatika USU
+
 Cahaya Pratista - D3 Teknik Informatika USU (teman sekelompok)
